@@ -1,12 +1,14 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "online store",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
+  "engines": {
+    "node": "4.6.1"
+    },
   "keywords": [],
   "author": "",
   "license": "ISC",
